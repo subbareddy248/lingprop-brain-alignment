@@ -1,0 +1,1021 @@
+tr	5	This is Los Angeles.
+tr	7	And it's the height of summer.
+tr	9	In a small bungalow off of La Cienega, Clara serves homemade chili and chips in red plastic bowls -- wine in blue plastic.
+tr	10	The colors don't match and the cups are too big to serve wine.
+tr	8	"You didn't get half the things on my list," she hisses at Gary as he passes.
+tr	4	He shrugs.
+tr	7	No one seems to mind but her.
+tr	11	"Did you have to buy a four-hundred dollar bottle of Scotch?"
+tr	5	Gary waves away her upset.
+tr	6	He seems distracted.
+tr	6	Guilty of something.
+tr	11	She can tell by the way he avoids her.
+tr	6	Clara looks at her face in the hallway mirror.
+tr	6	She's thirty-three years old.
+tr	7	She's slowly getting white hairs in her eyebrows.
+tr	5	She feels completely alone.
+tr	8	Grad students fill the low-ceiling space, chewing big words and gesticulating emphatically.
+tr	13	Gary's face looks up from the photo his parents have framed in expensive mahogany: Elated, graduating, cap and gown and all.
+tr	8	Toasts and more toasts: "To our Doctor of Philosophy.
+tr	3	Amazing Art Prodigy.
+tr	5	To Gary Loisin!"
+tr	6	Clara's carefully picked "Happy Graduation" paper banners hang too low from the adobe doors.
+tr	12	People have to duck when they go in the kitchen.
+tr	11	At Seventy-fourth and Columbus, Apartment nine-D, Steven Perdue watches his wife get ready for her violin lesson: black clothes, pearl necklace, her controlled, quiet elegance.
+tr	16	"We cannot ignore this We should be vigilant Steven" Married eight years he still can't believe his good luck.
+tr	5	"Steven, are you listening?"
+tr	10	Yes, yes He is listening "Sasha broke up with this guy and now I'm missing ten sleeping pills."
+tr	3	Oh God.
+tr	7	What is his daughter getting into again?
+tr	8	"We don't want a repeat of last year"
+tr	10	There is an edge in Margaret's voice: "This girl better grow up" She sounds cold and he notices.
+tr	6	Margaret pauses by the mirror then touches her neck.
+tr	5	She hates her age.
+tr	8	She hates being Sasha's stepmother.
+tr	14	"You think I should talk to her, Maggie?" Margaret turns and wraps her arms around Steven's stooped frame.
+tr	7	He looks much older than fifty.
+tr	8	"She doesn't talk to me," Margaret whispers.
+tr	9	"So yes, I think you should do it."
+tr	4	She stops.
+tr	7	"I'll be home late tonight," she adds.
+tr	10	She wants Steven to ask why, but he doesn't.
+tr	6	The Graduation party keeps going.
+tr	9	Clara stares at her husband, once the most handsome man in the room: Gary's thirty-five and already balding.
+tr	11	His face is liquor-flushed as he bends over a four-month-old baby-boy.
+tr	5	Son of friends.
+tr	4	His friends, not hers.
+tr	9	He asks to hold the boy, and Clara's eyes melt.
+tr	6	In an alternate universe this boy would be theirs.
+tr	7	Gary's awkward, the baby starts crying and everyone laughs:
+tr	6	"You're not daddy material, man..."
+tr	10	Clara can see the back of Gary's neck; all red...
+tr	5	Embarrassed, but hiding it.
+tr	5	She knows this neck.
+tr	7	Has studied it each night for ten years.
+tr	11	And Clara is suddenly filled with the need to protect him...
+tr	10	She puts her hand on the small of his back, hoping he'd turn.
+tr	5	The baby's father steps up.
+tr	10	"So, is it time to open that Scotch?
+tr	7	Clara, you're moving to New York too?"
+tr	8	Going where -- doing what?
+tr	7	Clara looks at Gary confused and he smiles, past her -- to the crowd.
+tr	8	He's basking in the glory of something.
+tr	8	Tommy, the baby's father, looks at Clara's face and takes a step back -- "Oh man...
+tr	5	Did I blow the surprise?
+tr	9	I'm so sorry" "You guys are into bullshit drama again.
+tr	8	I just like to sleep deeply these days.
+tr	5	That's all."
+tr	7	Sasha strides up to her dad and opens her palm.
+tr	7	The ten white sleeping pills stare at him, an act of defiance.
+tr	9	"I certainly don't need you guys freaking out" Sasha watches her dad flush the pills down the toilet.
+tr	8	"You should have put them back in the pill-box."
+tr	9	Of course Sasha's right and now his gesture of closure feels stupid.
+tr	7	He puts his hand on her shoulder but she wiggles away.
+tr	7	"So how do you sleep these days dad?"
+tr	5	He turns on CNN.
+tr	6	"Have you told Margaret yet?"
+tr	6	Steven stares at the TV and carnage.
+tr	10	"You haven't told my stepmother you've lost all your money?
+tr	7	That your stocks have all tanked?
+tr	11	That I might have to drop out of college?"
+tr	7	On the TV -- the Middle East, India, Wars, Earthquakes, Crashes, Steven sighs.
+tr	9	"There's no need to disturb Margaret I'll figure it out.
+tr	7	What do you want for your birthday?" he asks.
+tr	11	"I want you to start telling the truth," says Sasha and her voice, for the first time, is breaking.
+tr	8	"Your duplicity is so fucking exhausting" Clara stares at Jeannie -- she must be what, twenty-five?
+tr	3	Twenty-six?
+tr	8	So in love with this baby spitting up goo on her lap...
+tr	11	"And then, the moment they found out I was pregnant, Tommy's parents swept in and erased all our debt.
+tr	5	All ten-thousand dollars in one check...
+tr	7	So we could start fresh and not stress Amazing.
+tr	4	Just amazing.
+tr	5	I love them."
+tr	6	"That's great, Jeannie," Clara musters.
+tr	8	"You want to have kids?" asks Jeannie.
+tr	6	Still pudgy from the birth.
+tr	7	So full of life and good cheer.
+tr	5	"Not yet," Clara says stiffly.
+tr	7	"Can't afford it for one."
+tr	10	Jeannie looks up, expecting more of an answer: "I don't really like modern art, installation art?
+tr	11	I don't really get it," admits Jeannie "Tommy says it's an incredible opportunity for Gary.
+tr	10	A chance to create his own, site-specific piece, downtown in New York..."
+tr	6	"We'll see," Clara says.
+tr	9	She hates Gary for making her the killjoy.
+tr	7	She takes out more bottles of wine from the cupboard.
+tr	9	People pat her on her back: "You must be so proud of him Clara."
+tr	9	She doesn't care anymore how much wine she'll serve...
+tr	6	At least one bottle per person these days.
+tr	5	Inside the cab, Margaret holds onto her violin case.
+tr	6	"All the way down Columbus, OK?"
+tr	7	She gives the instructions in a pleasant stiff voice and pulls out her cell.
+tr	5	She cancels her violin lesson.
+tr	7	The cab driver's eyes keep checking her out.
+tr	6	She pauses, hits voicemail.
+tr	6	Alexander's accent purrs in her ear.
+tr	7	He's waiting for her.
+tr	6	"So what's eating you princess?" asks the cabdriver.
+tr	5	He's Sikh.
+tr	10	His turban blocks her view of the asphalt "Whatever it is, tell your husband.
+tr	6	Don't keep the stuff in.
+tr	8	That's what gives people cancer."
+tr	6	Alexander's name vibrates on her phone.
+tr	8	Margaret texts him instead: I'm running a few minutes late.
+tr	7	The eyes of the cabdriver are still there in the mirror "Do you have children princess?"
+tr	7	She shakes her head no, without thinking.
+tr	10	And then she's terrified by what she's done.
+tr	6	Denying Sasha's existence.
+tr	9	But it's too late to undo it.
+tr	13	You look like someone who should," says the cabdriver and is quiet the rest of the way.
+tr	15	She pays with a twenty, as they pull by the fountain, and hates herself, because -- as if to prove him right -- she overtips.
+tr	7	"No art residencies for us," Jeannie laughs and nods at the gurgling boy on her lap.
+tr	8	Tommy struts in, dangling his scotch by his crotch.
+tr	11	He holds a cracker, piled with over-ripe brie and jelly, shoves it in his wife's mouth.
+tr	6	She thankfully chews, like a chipmunk.
+tr	6	His black faded t-shirt walks towards the kitchen.
+tr	6	"I'm an existentialist-fatalist," it boasts.
+tr	4	Then he ducks.
+tr	6	The "Congratulations!" sign still hits him on the back.
+tr	3	"One more Tommy, please!"
+tr	7	She's never losing the baby weight that way, Clara thinks.
+tr	6	But who the fuck cares... she's young...
+tr	14	Clara looks at the baby who's drooling over his hands and walks out of the room.
+tr	7	"How could you do this to me?" Clara hisses at Gary.
+tr	7	"When did you find out about New York?
+tr	5	When did you even apply?"
+tr	6	Anger and humiliation are drowning her breath.
+tr	5	And probably a touch too much wine.
+tr	9	But Gary is giddy and thrilled and sees nothing wrong with their lives.
+tr	6	"Baby -- be proud," he laughs.
+tr	7	"It's just for a year, we'll work it out..."
+tr	8	And what is so sad -- he really believes this Alexander and Margaret walk down Broadway.
+tr	5	Margaret feels beautiful.
+tr	6	"I quit my Wall Street job three months ago.
+tr	6	I'm taking violin lessons.
+tr	5	For fun," she adds.
+tr	5	Alexander doesn't respond.
+tr	5	"And Steven took early retirement.
+tr	6	He did very well with investments."
+tr	8	She can hear the pride in her voice and she stops.
+tr	8	Praising your private life to a lover, even a former lover, feels wrong.
+tr	6	But she's doing it.
+tr	5	"Steven's a therapist now."
+tr	4	Alexander laughs.
+tr	10	"An ex-banker who listens to people's pain for a hobby.
+tr	8	I thought you wanted a kid.
+tr	6	Isn't that why you married?"
+tr	6	She's quiet for a second.
+tr	8	"Sasha's been a bit of a handful..."
+tr	7	When she says it -- it feels lame.
+tr	8	"She took a year off, did some great journalism in West Africa, but after she came back"
+tr	8	Alexander stops in front of a storefront.
+tr	6	He's not paying attention.
+tr	8	Margaret braces herself: "Why did you call me?" she asks.
+tr	7	He turns, smiles at her.
+tr	9	She's scared to say more.
+tr	5	And somehow she's also excited.
+tr	5	Margaret's phone vibrates in her purse.
+tr	8	She knows it's Steven and she doesn't look.
+tr	11	"I don't want to go back to New York," Clara says quietly.
+tr	6	The dishes from last night are still in the sink.
+tr	9	Gary has a meeting with his advisors to discuss the internship.
+tr	5	Of course he's late.
+tr	8	And now the dishes won't be done until this evening...
+tr	3	Crusted chili.
+tr	3	Soap, bubbles.
+tr	3	Scrub!
+tr	6	She's shopped and cooked and served and now dishes, again.
+tr	9	"I'll do them later, Clara, don't fuss," Gary says as he flips over tupperware, newspapers -- looking.
+tr	6	"You've seen my wallet?"
+tr	8	"How long is this internship Gary?" " September to June."
+tr	7	"Without getting paid?
+tr	10	I can't afford to float this whole place by myself."
+tr	14	Gary heads to the door: "I'm sure you can be a journalist in New York, too"
+tr	6	But she just signed her contract here and he knows it.
+tr	9	"We should have talked this move through, before you applied..."
+tr	4	He laughs.
+tr	9	"You would have talked me out of it."
+tr	10	For a moment he looks like a boy, getting caught and standing up in defiance.
+tr	4	Almost charming.
+tr	5	But he is thirty-five.
+tr	8	"What's good for me Clara, is also good for us."
+tr	8	That certainly used to be true.
+tr	4	Is it now?
+tr	12	Alexander pays for their hotdogs with crumpled-up dollar bills he pulls out of his pocket.
+tr	5	"New York is the best.
+tr	9	I'm so glad to be back."
+tr	8	The last eight years have been good to him.
+tr	6	He still has a cat in his step.
+tr	6	My new apartment looks great, Maggie," he says.
+tr	15	"You'll see â€“ I bet you'll want to move in"
+tr	5	Is this a come-on line?
+tr	12	She catches a glimpse of herself in a window and is suddenly aware she should have colored her hair.
+tr	11	"New York is very glad you're back" she says.
+tr	6	The hot dog mustard drips on her blouse.
+tr	6	Alexander clears it, licks his finger and smiles.
+tr	9	His eyes land on hers as she waits for his words.
+tr	10	"I need you to connect me with your former colleagues on Wall Street," he says.
+tr	9	"We're working on a major piece on international corruption.
+tr	5	It's Pulitzer-worthy."
+tr	7	Margaret is so aware of her aging neck.
+tr	8	That's why he called: a little networking opportunity.
+tr	11	That's what this meeting is She touches her neck.
+tr	8	She wants to protect herself.
+tr	7	She wants to hide.
+tr	5	Alexander hands Margaret his card.
+tr	6	"Have Sasha call me," he says.
+tr	7	"I'm looking for interns and she sounds like a catch."
+tr	4	"Here is your lunch..."
+tr	5	Leftovers in blue tupperware.
+tr	7	"We're postponing our lives, Gary.
+tr	6	What about getting a job?"
+tr	9	Between looking for keys and slipping on flip-flops, Gary sets the tupperware on the mail table and forgets it.
+tr	6	She doesn't remind him.
+tr	6	The door closes, she stares at it.
+tr	6	Next to the tupperware, she sees the envelope from American Express.
+tr	5	Gary's business account.
+tr	6	She takes his lunch and tosses it in the trash.
+tr	3	Whole tupperware.
+tr	5	Then picks it out.
+tr	4	Opens it.
+tr	5	Tries it.
+tr	3	Cold chili.
+tr	5	Her eyes find his wallet.
+tr	5	Right by the couch.
+tr	5	Four-hundred dollars for scotch.
+tr	7	She shoves chili in her mouth without stopping.
+tr	5	Is New York worth the fight?
+tr	5	Every bit of bean.
+tr	5	Every bit of rice.
+tr	6	It's all comfort now, and then -- it's all guilt.
+tr	6	Across town, Gary sits in his art studio.
+tr	5	Drying photo prints.
+tr	3	Moldy coffee-cups.
+tr	9	He knows it's in him, the "it," the "something," the "drive."
+tr	6	He sits paralyzed under the light.
+tr	6	He's losing her.
+tr	6	He is losing his wife.
+tr	6	He looks at his phone.
+tr	6	He should call Clara.
+tr	4	But he doesn't.
+tr	6	Margaret re-enters the apartment in a horrible mood.
+tr	7	She can hear loud yelling from the back.
+tr	6	Steven yells at a man.
+tr	7	At ten o'clock at night?
+tr	4	What the hell?
+tr	7	The Super is fighting with Steven.
+tr	5	There's a horrible leak.
+tr	7	The ceiling in Sasha's room has caved in.
+tr	6	The Super is yelling, no one told him about the damn leak.
+tr	6	Steven's upset there might be asbestos.
+tr	6	Sasha seems weirdly amused.
+tr	9	Margaret walks away from this mess, and into the living room, pours herself a large glass of red wine.
+tr	6	Sasha walks in with a mop.
+tr	6	Margaret turns, glass in hand.
+tr	7	"How could you not notice a huge leak -- right over your head!?"
+tr	4	Sasha just shrugs.
+tr	11	"It's not my fault the building is old" "I'm serious Sasha.
+tr	7	How can you be so checked out?"
+tr	11	Sasha's voice is annoyingly calm: "I don't want to pick a fight with you Margaret.
+tr	8	You want to get drunk?
+tr	5	Just get drunk."
+tr	7	Her stepdaughter looks at her with cold eyes: "Where the hell have you been?
+tr	7	You've got mustard stains all over your blouse.
+tr	9	We were trying to reach you."
+tr	8	When the phone rings, Clara's throwing up.
+tr	5	She catches her breath.
+tr	12	Makes sure to clean everything well, (underneath the toilet seat too, always check that) before she calls back.
+tr	5	It's her mom.
+tr	8	"You want me to send you some money?" "No mama, we're good."
+tr	5	"Gary got a job yet?
+tr	9	He should have stayed designing those greeting cards.
+tr	7	He was good at that.
+tr	6	I still find them at Wal-Mart."
+tr	8	The way her mom says that, it could be ultimate praise, or ultimate scorn...
+tr	9	That reminds Clara, she has a card to send.
+tr	5	It's August eighteenth.
+tr	7	She still remembers the address by heart... "Ready for work?" "Almost mama."
+tr	5	"You hold onto that job.
+tr	9	A staff job is not easy to get.
+tr	7	I'm really proud of you baby.
+tr	7	You still want the name of that lawyer?
+tr	5	Mr. Zimmler's the best.
+tr	5	He won't overcharge."
+tr	5	Clara closes her eyes.
+tr	7	That was one conversation in thousands.
+tr	5	But her mom won't forget.
+tr	11	"I'm not ready to throw away the last ten years of my life."
+tr	7	The moment she snaps, she regrets it.
+tr	6	"Gary and I are sticking it out."
+tr	9	Steven can hear their agitated voices full of anger.
+tr	8	He tries his best at brokering peace.
+tr	6	"Can I get you guys water?" he calls to the back.
+tr	8	He stands in his pajamas by the light of the open fridge.
+tr	17	He can hear Margaret's voice rising high: "Sasha, if you're in trouble you have to tell us" Sasha storms in "Get your wife off my back" "I'll handle it, Maggie" "There's nothing to handle here, dad.
+tr	7	She's just fixating on me.
+tr	4	My boyfriend just ditched.
+tr	5	I'm upset.
+tr	5	I'm simply upset.
+tr	9	What's wrong with being upset?
+tr	5	You're the therapist, no?
+tr	9	You tell me, is there something wrong if I am upset?"
+tr	6	She's yelling now.
+tr	6	Margaret stands by the door.
+tr	9	"Upset is one thing," she says, "stealing pills is another" "I didn't steal your damn sleeping pills.
+tr	5	I am NOT my mother, OK?
+tr	8	I don't want to die!
+tr	9	Do you want me to sign a statement or something?
+tr	9	I am not my mother, I'm not" Steven moves to hug Sasha.
+tr	6	Margaret steps back and exits the room.
+tr	8	She wants to go far away.
+tr	7	She takes her violin case, puts it inside the closet and then she mops the floor.
+tr	10	"Next time you blink, Clara you'll be throwing away the last twenty and then the last twenty-five years of your life."
+tr	5	Her mom's voice is flat steel.
+tr	5	"I love you mama," says Clara.
+tr	7	When her father died, Gary sat next to her mother for days, holding her hand.
+tr	8	He's better at grieving.
+tr	4	Ten years together.
+tr	5	"The lawyer's name is John Zimmler.
+tr	5	He's a great divorce lawyer.
+tr	13	I'll send you the number," says her mother before she hangs up In Clara's closet there's a huge stack of Gary's greeting cards.
+tr	4	Meticulously drawn.
+tr	9	Worlds within worlds, creatures of the woods and of the seas -- flying, flying.
+tr	8	She chooses one in shades of purple and green.
+tr	7	She writes: "HAPPY twenty-first BIRTHDAY sweetie" -- Oh God...
+tr	5	She tears up the card.
+tr	6	Picks up another: "HAPPY twenty-first BIRTHDAY!"
+tr	9	She replaces "sweetie" with a number of exclamation marks.
+tr	4	xos too.
+tr	4	Neutral, yet warm.
+tr	3	More xo's.
+tr	13	She doesn't know what else to say Never expects a response.
+tr	13	But today she adds one more line: "Let me know how you are" She regrets it.
+tr	10	Steven comes home for lunch carrying a bunch of colorful foam tubes.
+tr	11	He uses them to help patients move through aggression.
+tr	7	"We'll have a family session, it will help us all loosen up" Margaret rolls her eyes.
+tr	7	There are more pressing issues than foam fights.
+tr	7	The ceiling leak in Sasha's room has spread.
+tr	8	The room is a wreck, covered in tarps.
+tr	10	Margaret sets up for Sasha to sleep in the living room.
+tr	11	She opens the pull-out couch, uses eight-hundred thread sheets to make it feel nice.
+tr	8	Steven just stands at the doorframe eating his lean cuisine from the box.
+tr	7	Blood rushes to Margaret's head.
+tr	11	And then she says it all in one breath: "I-want-to-go-back-to-work."
+tr	5	His eyes get strangely alarmed.
+tr	12	"Did Sasha say anything about you having to go back to work?"
+tr	5	Margaret shakes her head.
+tr	10	"It's just, without work, I feel old" Why does Steven seem so relieved?
+tr	17	She finds herself getting angry "There's nothing funny about feeling old" Steven puts down his lunch.
+tr	8	"To me, you look more striking than ever," he says.
+tr	4	Then he waits.
+tr	15	And Margaret almost cries, because she knows that he means it Gary is on the attack and she hates him.
+tr	6	"We came to LA because of you Clara.
+tr	6	You fucked up and I picked up the pieces.
+tr	8	You were running away" Clara's heart is pounding.
+tr	9	"Don't drag that stuff in We need income Gary!"
+tr	5	"So you work harder now.
+tr	5	Pull more weight.
+tr	4	Then I will."
+tr	5	"Fuck you!"
+tr	7	The words are out now, spite flying...
+tr	6	"I am a staff-writer Gary.
+tr	6	I don't make the big bucks..."
+tr	8	"Maybe you should use your talents for something more lucrative."
+tr	5	They face-off.
+tr	3	Bitterness nesting.
+tr	14	He leans close with mock kindness: "Why don't you want to come back to NY?
+tr	8	Maybe you'll find a Wall-street man to marry.
+tr	10	Or cheat with" "I made one mistake in my life," she hisses... "and you won't let me forget!"
+tr	4	Is this the one?
+tr	8	Is this the fight to undo them?
+tr	10	"You want to go to NY, go ahead Gary," she says.
+tr	9	"I'll keep growing up, you go ahead and act-out."
+tr	13	He's already left the room as she yells: "You ask your parents for money if you want to go to NY.
+tr	18	I'm not paying for any of that" "I don't want you to go back to Wall Street, Maggie," says Steven.
+tr	11	"You need to do something you love.
+tr	8	I want you to be brave."
+tr	8	They're making Sasha's bed on the pull-out couch.
+tr	4	New sheets, a festive Indian bedspread.
+tr	7	"Enjoy your music, relax" He pauses.
+tr	16	"Let's revisit the child question if you want" "You know that ship has sailed," Margaret says simply.
+tr	7	She takes out Alexander's card, her voice all business.
+tr	7	"There's an opportunity for Sasha.
+tr	7	Alexander Sukurov, my old journalist friend, is back in New York."
+tr	8	"Did I ever meet Alexander?" "I dated him once," she says without meeting his eye.
+tr	7	"He's looking for interns."
+tr	4	Steven smiles.
+tr	6	"She'll love it."
+tr	6	Margaret hands him Alexander's card.
+tr	12	"Sasha won't call him if she thinks it's my lead.
+tr	6	Why don't you suggest it."
+tr	11	Steven nods, pulls Margaret close: "I will, then we'll get YOU a job that you love."
+tr	11	Margaret looks at her husband of eight years: "I really wish we'd had a child when we met," she says quietly.
+tr	13	"I really wish we'd been brave" Clara puts the birthday card in an envelope and walks out, into the night.
+tr	8	What if she kept walking and just ran away?
+tr	8	The mailbox door creaks and the cool air feels good Back at the house, Gary's upstairs.
+tr	7	Left the lights on, their bottles of wine; his and hers.
+tr	6	His is done, hers almost.
+tr	6	Clara returns to the kitchen, mindless tidying...
+tr	7	Until she finds their joint AMEX card.
+tr	3	Messy torn envelope.
+tr	5	Among messy papers.
+tr	6	The charges are for photographic equipment.
+tr	7	And new luggage and a ticket, only one ticket, one way to New York, expensive clothes, and a fancy hotel in Tribeca.
+tr	13	It's the price tag that gets her He sits up in bed all defenses.
+tr	12	"You've got to spend money to make money."
+tr	10	"But you're not making any money" "I'll pay for it.
+tr	6	Like you said, I'll ask my parents."
+tr	10	"What a mess you've made" "Stop talking.
+tr	7	Just stop talking Clara!"
+tr	6	She stares at the number.
+tr	5	Thirty-six-thousand dollars in the last two months.
+tr	8	She feels she can't breathe.
+tr	7	This is half her salary Alexander's third martini arrives with dessert.
+tr	5	He hands Sasha the olives.
+tr	5	She shakes her head, no.
+tr	5	He acts disappointed.
+tr	8	"I thought you like risks..."
+tr	5	She likes this man.
+tr	5	He's fun.
+tr	10	"So when do I start?" "It's funny, how you look just like Margaret," he suddenly says.
+tr	5	Sasha licks the chocolate off her spoon.
+tr	6	"We all look alike: My mother, me, Margaret..."
+tr	6	Alexander waves for the check.
+tr	8	"You look like her but you're nothing like her.
+tr	11	You're not a girl who likes playing safe.
+tr	8	Of course that can get you in trouble" A shadow crosses her eyes.
+tr	9	"Did my dad tell you why I took a year off?
+tr	6	I got addicted -- to prescription pills."
+tr	7	She holds onto the candle between them.
+tr	9	"I'm glad you told me," says Alexander.
+tr	7	"I don't believe in lies."
+tr	5	"You tell me a truth, then."
+tr	6	Her voice takes Alexander by surprise.
+tr	10	"I'd like to show you my apartment," he says.
+tr	6	Sasha reaches for his martini glass.
+tr	7	"I'll be twenty-one next month and no one is looking."
+tr	5	Thirty-six-thousand dollars.
+tr	12	Clara is scared, she hates Gary and in a flash she wishes him dead.
+tr	6	She walks to the living room.
+tr	7	She should sleep on the couch.
+tr	8	Once, in New York, when Gary lost their money in the stock market he slept in the closet.
+tr	5	She turns on a light.
+tr	8	Terrified of being alone.
+tr	8	Defeated, tormented, pacing, then hating herself more than him, she crawls back to their room and their bed.
+tr	8	Desperate to recapture his smell.
+tr	7	She spoons him, her face in his neck.
+tr	3	"Gary, Please!"
+tr	4	And then his cell rings...
+tr	10	When people hear someone has died they cover their mouths, as if to protect their own breath.
+tr	5	Gary does that.
+tr	3	"Oh my God!"
+tr	7	And that's how she knows.
+tr	8	"It's Jeannie and Tommy's baby," he says.
+tr	5	"They found him.
+tr	5	In his crib.
+tr	5	He's gone."
+tr	6	Gary reaches and holds her.
+tr	6	Clara leans on his chest.
+tr	8	Gary holds Clara's hand and will not let it go.
+tr	10	"I'm so glad you're here," he whispers.
+tr	5	Their palms are sweaty.
+tr	8	That's how they find comfort.
+tr	4	Together.
+tr	6	In Alexander's apartment, the bathroom door is all glass.
+tr	10	Frosted glass Sasha's self-conscious as she locks it behind her.
+tr	4	The bathroom: White granite.
+tr	8	Hasn't been cleaned for a while.
+tr	5	She puts in her diaphragm.
+tr	6	Alexander's shadow stops outside the door.
+tr	3	"Red or White?"
+tr	11	She tries to think of something sassy, but says "Red, thanks."
+tr	4	Then adds: "My own glass."
+tr	6	The sex is violent, harsh.
+tr	7	"Getting too old for this," he sucks in his breath.
+tr	8	In the darkness he whispers, "You've got this strange power.
+tr	9	You make me do things Admit things.
+tr	4	Maybe you know."
+tr	6	She shrugs in the dark.
+tr	5	"You don't know?
+tr	5	Margaret and I, we were lovers."
+tr	8	"Who ended it?" "She did," he says.
+tr	9	"She was about to marry your dad.
+tr	5	I was jealous."
+tr	5	The richness of silence...
+tr	8	She moves on him slow, as if doing nothing.
+tr	7	Until he can't help but moan.
+tr	5	Not thinking, just moving...
+tr	4	Relentless.
+tr	3	Triumphant.
+tr	5	Gary chooses a gorgeous funeral wreath.
+tr	4	All orchids, all elegance.
+tr	8	Clara doesn't ask about price, nodding yes, of course.
+tr	5	The best for their friends.
+tr	5	How does a baby die?
+tr	7	When you're not looking, babies die.
+tr	5	At church, the congregation is numb.
+tr	7	Grad students, pulled from their studios, rub swollen eyes.
+tr	11	There's no one to blame in a crib death.
+tr	5	The service is short.
+tr	11	Clara keeps looking at Jeannie, so frail she could break, her family holds her.
+tr	4	Tommy doesn't.
+tr	8	Gary holds onto Tommy, leads the pack of bereaved friends to a bar.
+tr	10	He's arranged for them to take over the back.
+tr	9	Clara looks at him -- proud: in this alternate universe, her husband's a leader, getting things done.
+tr	5	Gary's hand on her arm...
+tr	7	Her pride rising, and then he puts everyone's drinks on their card.
+tr	7	She looks at him but everyone's looking too, so she smiles.
+tr	10	He keeps hugging his friends, waving at grief like a column of smoke.
+tr	9	No one knows what to say, so everyone drinks.
+tr	8	Clara has lost track of time.
+tr	4	Her phone rings.
+tr	5	A call from her mom.
+tr	5	She ignores it.
+tr	7	The pull-out couch covered with the Indian bedspread is empty.
+tr	8	It's two a.m., then three, then three-thirty Margaret keeps sight-reading Bach's second violin concerto.
+tr	7	Steven walks out of their bedroom.
+tr	8	"Do you know where she is?
+tr	5	I can't sleep"
+tr	5	He looks so distraught.
+tr	5	"I always miss the signs," says Steven.
+tr	9	"I don't listen until it's too late.
+tr	5	And then something horrible happens."
+tr	5	Margaret closes her score.
+tr	7	"I'll wait up for her."
+tr	6	"But I always turn Sasha over to you, to her mom, to a nanny."
+tr	6	"She's almost twenty-one," Margaret says quietly, "The hard job is done."
+tr	5	Steven holds onto her.
+tr	9	"It's not just the boyfriend, that has her messed up She saw my bank statement."
+tr	5	Margaret's blood leaves her body.
+tr	7	"Are we broke?" "We're not doing great."
+tr	9	She waits for him to continue, but he doesn't.
+tr	8	"I need one of your sleeping pills, " he says.
+tr	6	Margaret reaches for his hand.
+tr	5	"Money comes, money goes," she says.
+tr	5	"We're both young.
+tr	5	We can work."
+tr	6	He looks at her.
+tr	7	He doesn't feel young, but he's grateful.
+tr	7	The bar is half dark, stinks of grief, sweat and wine.
+tr	8	"Gary deserves so much better than you!"
+tr	7	Tommy's yelling at Clara.
+tr	7	Why is Tommy yelling at her?
+tr	8	"You look through his mail and you nag and you make him feel small..."
+tr	7	Tommy's drunk and so angry his spit lands on Clara's black dress.
+tr	8	"What do you want from me Tommy?"
+tr	8	He's up in her face, "What do I want?!"
+tr	8	She pushes him back with all of her strength.
+tr	6	Tommy falls on the chairs.
+tr	4	And everyone screams.
+tr	5	"I want my child back!
+tr	7	That's what I want..."
+tr	6	The crowd gathers around him.
+tr	4	Clara finds
+tr	7	Gary at the other end of the bar.
+tr	5	She's shaking.
+tr	6	He hasn't noticed a thing.
+tr	4	Jeannie has.
+tr	9	"Please forgive him, Clara" "I'm so sorry," says Clara.
+tr	10	"You can't save the ones that you love," Jeannie says and she leaves.
+tr	9	Gary drives them home, taking the turn off the highway so sharp, she thinks he'll kill them.
+tr	6	He's drunk, his eyes are half closed.
+tr	13	After the car screeches back in control, Gary says just one line: "Do you think they'll make it?"
+tr	6	At three-thirty am Sasha wakes up feeling pain.
+tr	4	Jolted.
+tr	4	Forced.
+tr	6	Alexander pushes her down, he wants flesh.
+tr	8	When she lets him he hisses.
+tr	6	"You are into danger Maggie's right."
+tr	4	What the fuck?
+tr	5	She pushes him off her.
+tr	5	Her fury, overpowers his mass.
+tr	6	"You gossiped about me?"
+tr	7	In the glare of the lights he looks flabby, unkempt.
+tr	6	"You take all your ex-lover's daughters to bed?"
+tr	7	"Margaret isn't your mother, don't get all hysterical"
+tr	6	He pulls a towel around him.
+tr	7	"You should go, I'm not feeling well."
+tr	7	He walks to the bathroom and locks it.
+tr	7	"You can't stay in there forever," she yells.
+tr	5	Her heart beats so fast.
+tr	7	She throws on her clothes, pounds on the door.
+tr	4	No response â€“ then a thump.
+tr	6	Through the frosted glass door, his shadow lies still, on the floor.
+tr	8	Sasha smashes the glass with all of her weight.
+tr	5	So much force, so much glass, Alexander's spread out.
+tr	6	Oh my god, oh my god Her mouth on his mouth.
+tr	9	CPR as she turns on her phone â€“ nine-one-one.
+tr	8	Her wrist has been cut on the glass.
+tr	7	It's her blood on the granite.
+tr	14	"I think I'm going to cancel the trip to New York," says Gary.
+tr	7	"I'll turn down the internship, it's not such a big deal.
+tr	6	I'll stay here."
+tr	5	Gary opens the fridge.
+tr	5	"These leftovers look amazing.
+tr	6	When did you make this chili?"
+tr	6	"It's a week old.
+tr	7	We had the party a week ago," she says.
+tr	6	A leftover piece of blue crepe paper dangles from the adobe kitchen frame.
+tr	6	Backlit by the fridge it catches Clara's eye.
+tr	12	She looks at this man she has loved for ten years.
+tr	7	"You've bought your ticket," she says quietly.
+tr	7	"You've booked the hotel, you bought your supplies.
+tr	7	You've burdened our life by thirty-six-thousand.
+tr	5	You never discussed it.
+tr	12	I believe this means New York is calling you Gary.
+tr	8	I believe you should go."
+tr	5	She's exhausted.
+tr	7	She looks at Gary and he looks far away.
+tr	5	He looks smaller.
+tr	3	A stranger.
+tr	9	You can't save the people you love.
+tr	5	She feels cold.
+tr	5	She's so cold.
+tr	8	She compulsively scrolls through her phone up to her mother's text: "Mr. Zimmler's expecting your call."
+tr	4	And a number.
+tr	5	She saves it.
+tr	6	The emergency vehiclesthe call to Margaretit is all a blur.
+tr	7	When Margaret enters the ER, Sasha's never felt such relief.
+tr	11	She's shocked to see how scared her stepmother looks
+tr	5	Her own cut wrist is bandaged.
+tr	7	That's what Margaret notices.
+tr	5	"I'm ok," says Sasha.
+tr	11	"It's just him" She's terrified of Margaret's anger but her step-mother just holds her.
+tr	22	Someone says: "He wouldn't have made it without instant careHe is one lucky man" "I want to stay until I know he's ok," whispers Sasha and Margaret squeezes her hand
+tr	17	It's morning when they exit the hospital Sasha holds onto Margaret just like when she was little They're shaking.
+tr	7	"What did you tell dad?"
+tr	5	"He was asleep.
+tr	5	I left him a note.
+tr	9	Said you'd lost your wallet and I needed to get you."
+tr	5	"I love you," says Sasha.
+tr	5	"I'm sorry"
+tr	9	At home after putting Sasha to sleep, Margaret writes Alexander an email: I'll help you get your Pulitzer article together.
+tr	10	I'll get you the Wall Street contacts you need.
+tr	6	But you, stay away from my kid.
+tr	7	The bathroom is full of wet steam.
+tr	10	"Are you sure I should go to NY?" "I'm sure," Clara says.
+tr	6	"You'll have a great life."
+tr	7	"You're being a bit too dramatic," Gary scoffs.
+tr	11	"Our friends' baby has died, it's that kind of a day" Through the steam, she gathers the courage to say it: "We're done Gary.
+tr	5	You and I, we're all done."
+tr	8	She's not going to cry.
+tr	11	"Let's look at it as a new beginning for us," he deflects stepping out of his clothes.
+tr	8	"I'll try out New York and then during the winter you'll join me."
+tr	8	In the mirror she looks at her face; her eyebrows are filled with white hairs.
+tr	8	"I can't live like this anymore," she says.
+tr	6	"It's not good for me.
+tr	5	I'm dying..."
+tr	6	She's crying now.
+tr	8	"When we come back from New York," Gary says, "we should get going with that baby idea..."
+tr	7	She enters the shower crying harder now.
+tr	7	Crying in the shower is safe.
+tr	6	"We're done Gary."
+tr	6	He's right behind her.
+tr	5	She closes her eyes.
+tr	10	The baby has died "What do you think of my idea?" he asks...
+tr	6	But he's already inside her.
+tr	8	Steven wakes up Margaret in the middle of the night.
+tr	5	"Sasha's crying.
+tr	9	Go to her," He whispers, "You go" Margaret tiptoes next to Sasha.
+tr	6	The crying turns to dry heaves.
+tr	5	"I'm sorry," says Sasha.
+tr	6	"Hell of a dream.
+tr	7	I was alone with my mom."
+tr	8	She catches herself, looks at Margaret who nods.
+tr	7	"After she jumped, they never let me visit the hospital.
+tr	11	I've always wondered, what if I'd been there."
+tr	5	Margaret and Sasha are quiet.
+tr	6	"You saved someone's life" says Margaret finally.
+tr	7	You couldn't save her, but you saved Alexander" "I know." says Sasha.
+tr	5	"It's so weird."
+tr	10	Sasha gets up: "I've been meaning to say -- You play the violin much better than my mom.
+tr	5	I remember her practicing"
+tr	6	Three colorful foam tubes land on the Indian bedspread.
+tr	7	"I challenge you two," Steven says, brandishing the tubes.
+tr	9	"Let's use these to fight."
+tr	8	His wife and daughter look up: Steven looks like a big-bellied clown.
+tr	6	For a moment, on Seventy-fourth and Columbus, Apartment nine-D, there's a mother and daughter, there's a dad, there is laughter.
+tr	5	Two months later.
+tr	5	October two-thousand-one â€“ New York City.
+tr	10	"I wish you weren't going back to LA so soon.
+tr	11	Not until we find Gary" Clara puts her arm around Gary's mom.
+tr	5	She looks up, so fragile.
+tr	7	Clara cuts the scotch-tape, and Gary's mom chooses the spot for their flier.
+tr	12	They walk the city looking for surfaces to plaster their plea: "Missing since nine-eleven."
+tr	6	Gary's face looks up from the flier: elated, graduating, cap and gown and all.
+tr	10	They tape his face next to the weathered fliers of missing bankers, secretaries, firefighters.
+tr	6	They run out, but Gary's mom is not done.
+tr	6	She pulls Clara into the Kinko's on seventy-second and Broadway.
+tr	11	"I've noticed the successful fliers, how they do it," she whispers.
+tr	5	"Successful fliers?" asks Clara.
+tr	7	The hand of Gary's mom shakes.
+tr	8	She pulls a faded Polaroid out of her purse: Gary, the toddler, bikes on the grass.
+tr	12	"Let's add this photo next, then I want you to keep it" "I'll run us a thousand copies, ok?" Clara says softly.
+tr	9	"The successful fliers, make you care" Gary's mom locks eyes with her daughter-in-law.
+tr	12	"We need people to care" Clara glances at Gary's mom, a few steps ahead, scouting out bulletin boards.
+tr	11	Her own mother's voice comes through the cell, clear with purpose, as always: "I'm going to ask you again.
+tr	7	Have you told them about Gary's debts?"
+tr	3	"Mom please."
+tr	6	"He's dead, Clara That boy's luck is over.
+tr	9	And you're stuck with all of his debts."
+tr	7	"They don't know about the pending divorce."
+tr	8	"Think about the rest of your life" says her mother.
+tr	5	"They got money.
+tr	4	You don't"
+tr	9	In the distance, Gary's mother is fighting with a janitor, "I got to go!" Clara blurts, and she runs.
+tr	7	"This bulletin board is just for the church," the janitor yells.
+tr	13	"Enough is enough, I clean up these fliers every day These people are dead" Clara finds herself screaming: "It's her sonhave a heart," and then, she suddenly sees it: A missing flier, discarded, on the ground.
+tr	7	It's Margaret's face, xeroxed a few too many times.
+tr	4	Any information, please call.
+tr	5	Clara picks up the flier
+tr	6	She looks at Margaret: black dress, and white pearls and her elegance.
+tr	5	"Mother and wife" says the flier.
+tr	3	"Please, Call."
+tr	9	Sasha stares at Alexander, as if staring at prey.
+tr	8	A plastic zip-lock bag with Margaret's purple toothbrush lies on the bistro table between them.
+tr	11	"I want you to go to the morgue and give this for the DNA sample," she says.
+tr	6	"You owe this to Margaret.
+tr	15	You have to be part of trying to find her."
+tr	5	Alexander sighs, he looks so much older.
+tr	5	"You take it in, Sasha.
+tr	5	She was your mom."
+tr	9	She leans in, all she wants is to kill him.
+tr	5	Alexander gets up.
+tr	6	"Go home to your dad."
+tr	7	Sasha grabs the toothbrush and shoves it in her purse.
+tr	10	"You broke Margaret's heart when you slept with me," she hisses.
+tr	8	"I hope her ghost haunts you forever."
+tr	6	Alexander leaves a twenty for their coffees.
+tr	7	He doesn't wait for the change.
+tr	11	Sasha can hear her heart beating out of control as she moves to the bar.
+tr	6	The barman asks for ID.
+tr	12	"I bet you didn't get to celebrate," he says as he looks at the date: September eighteenth
+tr	7	He slides over a dirty martini, and shrugs off her money.
+tr	9	He tries to pick her up, but she doesn't let him.
+tr	8	"I couldn't have made it without Clara today."
+tr	7	Gary's mom cuts a thick slice of coffee cake.
+tr	7	Even in deep grief, she serves tea with linen napkins and china.
+tr	6	All around Clara sit photos of Gary.
+tr	6	Cards of sympathy, supported on tables.
+tr	7	An email card from the graduating class of UCLA.
+tr	6	A bouquet of white orchids, from Jeannie and Tommy.
+tr	5	Clara feels sick.
+tr	6	The coffeecake rises to her throat.
+tr	11	"This is the third time you've been sick today," says Gary's mom.
+tr	5	"Your nerves are a wreck.
+tr	7	You want some of my Xanax?..."
+tr	12	When she's done throwing up, Clara remembers to clean everything well, (underneath the toilet seat, always check that,) before she settles back in.
+tr	9	"I know he's not dead," Gary's mother says.
+tr	9	Someone's bound to come forward
+tr	5	The new flier's much better."
+tr	9	Clara feels the stare of Gary's father rising up from The New York Times.
+tr	11	"I really think you should make some arrangements and stay with us for a while.
+tr	6	Clara hugs Gary's mom.
+tr	7	"I can't give up, yet" the old woman whispers.
+tr	7	"If you were a mother, you'd know"
+tr	8	If you were a mother Clara shivers.
+tr	5	Clara walks the empty Walmart aisles.
+tr	6	It's nine-thirty at night.
+tr	4	Halloween masks and candy.
+tr	8	Plastic lanterns for the plastic dead she's looking... stops in front of the pregnancy tests.
+tr	8	She can't keep ignoring the facts.
+tr	6	The test sits alone in her basket.
+tr	7	At the cashier's, she opens her purse and Margaret's face stares at her from the flier.
+tr	7	Haunted, Clara walks the half block back to her hotel.
+tr	4	"Excuse me, Miss"
+tr	8	The employees at reception surround her with an afterglow of pity.
+tr	7	"Someone's waiting for you at the bar."
+tr	5	Gary's father stands up.
+tr	6	A businessman, he cuts to the chase.
+tr	8	"I had Gary's correspondence forwarded to me.
+tr	9	I found a letter from a lawyer you hired.
+tr	5	Zimmler, is that right?"
+tr	5	Gary's father is shaking.
+tr	13	She's been dreading these words: "Fooling me and my wife in our grief..."
+tr	10	"I don't want to see you again, you go back to LA, as you planned.
+tr	5	It all makes sense now.
+tr	6	You don't give a damn."
+tr	5	Clara sits down.
+tr	7	Too exhausted to cry.
+tr	7	The hotel clerk brings her a glass of red wine.
+tr	6	"On the house," and she can feel his compassion.
+tr	11	Steven opens the door of his office to lead out a patient and Clara's right there, waiting on the soft maroon couch.
+tr	8	For one crazy double-take moment he thinks:
+tr	7	Is she here because I never answer her letters?
+tr	6	He waves her in â€“ on a reflex.
+tr	6	What Clara notices: his weight and sad eyes.
+tr	7	The room is padded with sound insulation.
+tr	6	"I know about Margaret," she whispers.
+tr	5	"She's missing."
+tr	5	The chair is uncomfortable.
+tr	8	"No," he says, in the detached voice of a therapist.
+tr	5	Margaret is not missing.
+tr	5	Margaret is dead."
+tr	6	His hands flex an anger management foam tube.
+tr	8	When Clara starts crying, there's no end to the tears.
+tr	17	He wants her to stay but she apologizes "Later" she says "I'm so sorryLet me gather myself."
+tr	8	Clara scrambles in her purse for a blank piece of paper.
+tr	6	"I remember your cell," he says.
+tr	7	The sound proof room is so incredibly quiet after Clara leaves.
+tr	6	Steven picks up the anger-management foam tubes.
+tr	13	He's about to put them away when he smashes them into his chair.
+tr	7	The ceiling in Sasha's room is finally fixed.
+tr	8	Steven sits in front of his Scotch.
+tr	7	On the TV -- the Middle East, India, Wars, Earthquakes, Crashes.
+tr	6	He can't stand the news.
+tr	5	He swallows a sleeping pill.
+tr	8	Why did Margaret go back to work in September?
+tr	15	She didn't need to go back to work Sasha folds up the pull-out couch.
+tr	7	Her voice sounds pragmatic: "I gave Margaret's toothbrush for the DNA file today" Steven hides his face in his hands.
+tr	8	He only says: "Clara's in town." Sasha stops.
+tr	9	"Not even a month since Margaret died, you're running into the arms of ex-girlfriends?"
+tr	7	She waves her father away Inside her room, she tears down the tarps.
+tr	6	Stops, out of breath.
+tr	7	Looks at the unopened pile of mail.
+tr	7	"Happy twenty-first Birthday!" says the card posted in LA in August.
+tr	7	Worlds within worlds, creatures of the woods and of the seas.
+tr	10	"Let me know how you are," Clara's added.
+tr	7	Sasha tears up the card and tosses it into the garbage.
+tr	7	"At least give us something of his.
+tr	9	Some closure, I beg you" Gary's mother is crying on the phone.
+tr	6	Clara in her hotel room, curled up in a ball.
+tr	6	"I don't have his things anymore" she says.
+tr	4	"Nothing?
+tr	6	You have nothing?!"
+tr	13	"I don't have his toothbrush, his comb, anything to help with the DNA tracking"
+tr	9	She can hear Gary's father struggling for the phone.
+tr	7	"You cleaned him out of your life â€“ way too fast"
+tr	6	He's hung up.
+tr	4	Her face burns.
+tr	10	The phone rings right back: "California is a common-law state; you're responsible for" "Stop it, mama" Her heart beats so loud.
+tr	14	"I found out something horrible mama, remember Sasha â€“ the little girl I used to take care of during grad-school?
+tr	6	Her step-mother also died in the towers."
+tr	6	Her mom's voice is like steel.
+tr	8	"Everyone suffers in life; right now, I can only worry about you."
+tr	5	Clara shakes her head.
+tr	6	Words dry up in her mouth.
+tr	5	She hangs up.
+tr	7	She takes her purse and empties it: Gary's toddler Polaroid photo, Margaret's flier, the pregnancy test.
+tr	6	She takes the test in the bathroom.
+tr	5	And braces herself.
+tr	8	In front of Margaret's laptop, Sasha hits "Print."
+tr	6	Margaret's inbox, an endless scroll on the screen.
+tr	9	"Dear Alexander: I'll meet with my colleagues, on September eleventh.
+tr	8	I'll get you your Pulitzer-piece, but I repeat, you stay away from my kid."
+tr	6	Steven's bottle of Scotch is almost empty beside Sasha.
+tr	6	She chugs one last sip, then takes off
+tr	9	She's surprised Alexander opens his door.
+tr	8	She can see right behind him, his bathroom.
+tr	5	The door still all frosted glass.
+tr	4	Now fixed.
+tr	9	She refuses to enter, hands him two zip-locks.
+tr	6	"Margaret's nail-clippings and hair.
+tr	11	They're good for DNA too "You're morbid."
+tr	9	He goes to close the door in her face.
+tr	6	Sasha starts stripping.
+tr	6	He's panicked, looks down the hallway, thankfully empty.
+tr	5	He holds onto the zip locks.
+tr	8	"I'll take them to the morgue tomorrow, get dressed" But Sasha keeps on.
+tr	9	"I found out why Margaret died," "I found out why she went to the office."
+tr	6	Her laughter sounds like a mating hyena.
+tr	7	"Do I look like Margaret now?"
+tr	6	He slams the door shut.
+tr	5	Shaking, Sasha slips the printed email underneath the door.
+tr	6	On it she's written: "You killed her."
+tr	7	Clara sits next to Steven, on his couch.
+tr	9	She eats his homemade chili, always better than hers, always soothing.
+tr	7	Served in rustic pottery; not plastic.
+tr	8	"Could Gary be running away from his debts?
+tr	7	Why would he even be near the Towers?"
+tr	8	Clara feels defensive: "Gary was creating site-specific art.
+tr	5	He'd never just disappear."
+tr	14	She tries to concentrate on the reason she's here: "I need to help his parents.
+tr	9	If someone writes an article about him" Steven rummages through paperwork.
+tr	8	"There's only one journalist I know."
+tr	6	He hands her a card: Alexander Sukurov.
+tr	6	"An old friend of Margaret's."
+tr	5	Clara nods thankful.
+tr	11	"Maybe it's not the best thing to see Sasha today," says Steven.
+tr	7	"She's having a very hard time."
+tr	4	Clara pauses.
+tr	7	"When I sent her her birthday card I was so stuck, so trapped.
+tr	4	"And now?"
+tr	6	Steven stares at her.
+tr	9	Clara looks up at the man she once loved.
+tr	5	"Now I feel guilty.
+tr	4	And scared."
+tr	7	Clara sits across from Alexander at his make-shift office at ground zero.
+tr	13	She likes him: the way he asks questions, how he leans in to listen to details.
+tr	12	He promises to do his best to get an article out: Has anyone seen Gary Loisin?
+tr	6	The room of volunteers hums, content.
+tr	6	Work keeps everyone sane.
+tr	7	"When this time passes," says Alexander, "you can come work with me.
+tr	16	In case you want to stay close until he's found Stay close to where he is"
+tr	7	She's thankful for this unexpected compassion.
+tr	7	She's thankful for Alexander Sukurov.
+tr	8	On Seventy-fourth and Columbus, Apartment nine-D, Steven begins to clean up.
+tr	8	Bach's Second Violin concerto fills the apartment, as if Margaret's playing.
+tr	7	He stares at Margaret's mustard-stained blouse.
+tr	10	He still can't bear to clean it, folds the Indian bedspread instead.
+tr	6	He flows with the music.
+tr	6	Grief makes you nauseous.
+tr	6	In Sasha's room, he empties the trash.
+tr	11	That's when he finds it: Clara's torn birthday card and then -- the empty pill-box.
+tr	4	Margaret's sleeping pills.
+tr	5	They're all gone.
+tr	7	Sasha walks into Alexander's offices.
+tr	5	She's calm.
+tr	4	Rubs her eyes.
+tr	5	She's suddenly cold.
+tr	7	She wants to sleep.
+tr	7	All she wants is to sleep.
+tr	7	She's already dreaming, Margaret shows her a window: "This is the way out," she says.
+tr	8	Sasha wants Alexander to see her.
+tr	7	She wants him to watch.
+tr	10	Across the room: Clara notices this girl dozing over, a volunteer falling asleep on the job.
+tr	4	So much stress.
+tr	8	But then she sees Alexander walking over to her.
+tr	5	Shaking the girl.
+tr	6	Yelling at her.
+tr	4	Suddenly angry, unrecognizably angry, then scared.
+tr	8	Young people, congregate, pull rashly away Clara gets up from her chair.
+tr	10	"You cannot save people," Jeannie said that night in LA, "You cannot save the people you love" And then Clara runs
+tr	3	No thinking.
+tr	3	Just movement.
+tr	5	She slaps this girl.
+tr	8	Alexander watches terrified as Clara screams, "nine-one-one".
+tr	7	And then sticks her fingers inside Sasha's throat.
+tr	7	Sasha moans, half opens her eyes and she gags.
+tr	11	"Clara" she says Terror and relief live on Clara's face as she starts CPR.
+tr	6	"I got you Sasha," she tells her.
+tr	5	Steven holds Sasha.
+tr	5	She's alive.
+tr	6	She's with him.
+tr	8	"This is not a repeat of last year," Sasha whispers.
+tr	6	"I'm here," he repeats again and again Father and daughter.
+tr	7	A tiny unit surrounded by wires and white sheets.
+tr	7	Steven puts on some music, watching his child sleep.
+tr	6	Clara walks outside in the hallway.
+tr	6	A nurse passes and smiles at her.
+tr	6	"You should join EMS," she jokes once again.
+tr	5	"Want a coffee love?
+tr	4	Tea?" Clara nods.
+tr	6	Checks her watch; her flight leaves in eight hours.
+tr	5	She feels warm.
+tr	7	She feels safe and then she looks down at her legs.
+tr	9	When she walks to the nurses' station, she's remarkably calm.
+tr	6	"I'm pregnant," she says.
+tr	8	"I think I need an ultrasound.
+tr	5	I'm bleeding."
+tr	9	Lying in the semi-dark room, she keeps her eyes closed as the technician moves over her abdomen.
+tr	8	"You want to hear it?" asks the nurse.
+tr	5	Clara opens her eyes.
+tr	6	The black and white images come and go on the screen just like clouds
+tr	6	The woman smiles at her.
+tr	8	"You want to hear its heart?" Clara nods.
+tr	6	"Can we tape it?" she whispers.
+tr	6	On thirtieth Street and First Avenue sits a complex of tents.
+tr	5	Alexander watches the makeshift compound.
+tr	6	Traffic whistles along the FDR drive.
+tr	5	The huge white tent is a magnet.
+tr	8	He knows what's inside.
+tr	7	Sixteen refrigerated trailers, humming engines, fragments of lives, remains coming in every day.
+tr	5	Is Margaret in there?
+tr	8	It has started to rain.
+tr	6	An elderly couple approaches, then stops, almost embarrassed.
+tr	5	"I'm sorry," says the old man.
+tr	14	"We thought you were someone else" "He thought you were our son," says his wife.
+tr	6	"But our son is in there"
+tr	6	She points to the tent.
+tr	7	She laughs, a gentle laugh, full of wonder.
+tr	5	"They found a small fragment.
+tr	3	A bone.
+tr	5	Do you have someone there?"
+tr	4	Alexander pauses.
+tr	12	"I'm sorry," says the old man "It's not our place to ask" "I should have died," says Alexander.
+tr	6	"Two weeks before nine-eleven.
+tr	5	I had a heart attack.
+tr	12	If I had died, Margaret would still be alive," he hears himself saying Clara takes an electric candle out of a Halloween lantern.
+tr	7	They won't allow open flames at the hospital.
+tr	9	She ducks as she enters Sasha's hospital room.
+tr	6	The hand-made Happy Birthday Banner still hits her on the back.
+tr	6	She places the electric candle on the cupcake.
+tr	6	Sasha blows and Steven turns off the flame.
+tr	4	The nurses applaud.
+tr	10	Clara keeps hearing the sound of the baby's heartbeat in her head.
+tr	10	Faster than a bird's, faster than she could ever have imagined, faster than fear.
+tr	7	This sound, she thinks, is the opposite of death.
+tr	7	On Thirtieth Street and First Avenue, the rain beats fast against the chalk-white canvas.
+tr	5	Alexander and the old couple stand underneath.
+tr	6	A preacher leads half a dozen people in prayer.
+tr	9	Alexander takes a lantern, the old couple take another and place them at the foot of a trailer.
+tr	7	Across town, Gary's father turns to his wife: "Clara called," he says quietly.
+tr	14	"She says she has something she wants us to hear."
+tr	8	When Clara heads to the airport, it is not yet dawn.
+tr	6	The taxi driver locks eyes with her in the mirror.
+tr	5	He's Sikh.
+tr	7	His turban blocks her view of the asphalt.
+tr	9	Clara watches out of the window as morning light rises over Manhattan.
+tr	7	Out of deep darkness comes the day, she thinks.
+tr	7	The sun is white, floods Clara's eyes.
+tr	5	Like birth.
+tr	3	Each day.
