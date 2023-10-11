@@ -4,7 +4,7 @@
 
 ![screenshot](architecture.png)
 
-[21^{st}tear_narratives_listening_dataset](https://figshare.com/articles/dataset/BOLD5000_Release_2_0/14456124)
+[21<superscript>st</superscript>tear_narratives_listening_dataset](https://figshare.com/articles/dataset/BOLD5000_Release_2_0/14456124)
 
 * 21styear dataset statistics:
   
