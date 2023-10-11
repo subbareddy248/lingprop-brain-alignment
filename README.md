@@ -11,10 +11,12 @@
 ![screenshot](bold5000_stats.PNG)
 
 * How to download 21<sup>st</sup> year dataset
-
+  
+```
 * python -m pip install datalad
 * datalad install https://datasets.datalad.org/labs/hasson/narratives/derivatives/afni-nosmooth
 * run the shell script for downloading the narratives 21<sup>st</sup> year dataset
+```
 
 ## Slides
 
