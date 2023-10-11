@@ -13,4 +13,4 @@
 * How to download 21<sup>st</sup> year dataset
 
 * datalad install https://datasets.datalad.org/labs/hasson/narratives/derivatives/afni-nosmooth
-* 
+* run the shell script for downloading the narratives 21<sup>st</sup> year dataset
