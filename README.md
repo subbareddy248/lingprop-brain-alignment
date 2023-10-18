@@ -20,10 +20,9 @@
 
 ## Slides
 
-[slides](https://docs.google.com/presentation/d/1OZuMMK6rC6B1YPmkA5bwCsF2AMn9oWDS/edit?usp=sharing&ouid=100565237099472127436&rtpof=true&sd=true)
 
 ## Video
-[video](https://drive.google.com/file/d/1olIwiI5syxblk6QEQXMfsiqKLYcRUug-/view?usp=sharing)
+
 
 ## For Citation of our work
 ```
