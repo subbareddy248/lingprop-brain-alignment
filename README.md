@@ -19,7 +19,7 @@
 ```
 
 ## Slides
-
+[slides](https://drive.google.com/file/d/1dczwbzrHmfitXSINBFRo5B3QcZ_5eGck/view?usp=sharing)
 
 ## Video
 
