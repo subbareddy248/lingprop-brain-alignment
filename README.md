@@ -12,11 +12,31 @@
 
 * How to download 21<sup>st</sup> year dataset
   
+* Datalad can be installed using pip
+
+```bash
+python -m pip install datalad
 ```
-* python -m pip install datalad
-* datalad install https://datasets.datalad.org/labs/hasson/narratives/derivatives/afni-nosmooth
-* run the shell script for downloading the narratives 21<sup>st</sup> year dataset
+- It is highly recommended to configure Git before using DataLad. Set both 'user.name' and 'user.email' configuration variables.
+```bash
+- git config --global user.name "username"
+- git config --global user.email emailid
 ```
+- git-annex installation is required for downloading the dataset
+```bash
+sudo apt-get install git-annex
+```
+
+**Download the dataset using datalad**
+```bash
+datalad install https://datasets.datalad.org/labs/hasson/narratives/derivatives/afni-nosmooth
+```
+
+**Download each subject data (considered the fsaverage6) using bash script**
+```bash
+bash download_data.sh
+```
+
 ## Poster
 [Poster](https://drive.google.com/file/d/1FOpiNJpXma3mlOK0F9nLhcJpJaJSQWsS/view?usp=sharing)
 
