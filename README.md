@@ -6,7 +6,7 @@
 
 [21<sup>st</sup> year_narratives_listening_dataset](https://figshare.com/articles/dataset/BOLD5000_Release_2_0/14456124)
 
-* 21<sup>st</sup> year dataset statistics:
+**21<sup>st</sup> year dataset statistics:**
   
 - 18 subjects
 - fMRI brain recordings
@@ -14,7 +14,7 @@
 - 2226 TRs (Time Repetition)
 - TR = 1.5 secs
 
-**How to download 21$^{st}$ year dataset**
+**How to download 21<sup>st</sup> year dataset**
   
 * Datalad can be installed using pip
 
