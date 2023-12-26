@@ -8,7 +8,11 @@
 
 * 21<sup>st</sup> year dataset statistics:
   
-![screenshot](bold5000_stats.PNG)
+- 18 subjects
+- fMRI brain recordings
+- 8267 words
+- 2226 TRs (Time Repetition)
+- TR = 1.5 secs
 
 * How to download 21<sup>st</sup> year dataset
   
