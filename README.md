@@ -14,7 +14,7 @@
 - 2226 TRs (Time Repetition)
 - TR = 1.5 secs
 
-* How to download 21<sup>st</sup> year dataset
+**How to download 21$^{st}$ year dataset**
   
 * Datalad can be installed using pip
 
