@@ -38,6 +38,7 @@ datalad install https://datasets.datalad.org/labs/hasson/narratives/derivatives/
 
 **Download each subject data (considered the fsaverage6) using bash script**
 ```bash
+cd afni-nosmooth
 bash download_data.sh
 ```
 
