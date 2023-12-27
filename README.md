@@ -53,7 +53,7 @@ bash download_data.sh
 
 ## For Citation of our work
 ```
-@inproceedings{oota2022visio,
+@inproceedings{oota2022joint,
   title={Joint processing of linguistic properties in brains and language models},
   author={Oota, Subba Reddy and Gupta, Manish and Toneva, Mariya},
   booktitle={Proceedings of the Thirty-seventh Conference on Neural Information Processing Systems },
