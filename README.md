@@ -42,6 +42,13 @@ cd afni-nosmooth
 bash download_data.sh
 ```
 
+**To build voxelwise encoding model for different stimuli representations**
+- five arguments are passed as input: subject_number, #layers, stimulus vector, context length, and output directory
+```
+cd brain_predictions
+python brain_predictions_21styear_text.py 1 12 bert_conext20_21styear.npy 20 output_predictions
+```
+
 ## Poster
 [Poster](https://drive.google.com/file/d/1FOpiNJpXma3mlOK0F9nLhcJpJaJSQWsS/view?usp=sharing)
 
