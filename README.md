@@ -42,6 +42,12 @@ cd afni-nosmooth
 bash download_data.sh
 ```
 
+**Extract stimuli representations using bert model with context lwngth 20**
+- Narratives Dataset
+```bash
+python extract_features_words.py --input_file ./Narratives/tunnel_align.csv --model bart-base --sequence_length 20 --output_file tunneling
+```
+
 **To build voxelwise encoding model for different stimuli representations**
 - five arguments are passed as input: subject_number, #layers, stimulus vector, context length, and output directory
 ```
