@@ -43,7 +43,7 @@ bash download_data.sh
 ```
 
 **Extract stimuli representations using bert model with context length 20**
-- Narratives 21st-year Dataset
+- Narratives 21<sup>st</sup>-year Dataset
 ```bash
 python extract_features_words.py --input_file ./Narratives/21styear_align.csv --model bart-base --sequence_length 20 --output_file bert-base-20
 ```
