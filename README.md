@@ -49,7 +49,13 @@ python extract_features_words.py --input_file ./Narratives/21styear_align.csv --
 ```
 
 **To build voxelwise encoding model for different stimuli representations**
-- five arguments are passed as input: subject_number, #layers, stimulus vector, context length, and output directory
+- five arguments are passed as input:
+- subject_number
+- #layers
+- stimulus vector
+- context length
+-  output directory
+  
 ```
 cd brain_predictions
 python brain_predictions_21styear_text.py 1 12 bert_conext20_21styear.npy 20 output_predictions
