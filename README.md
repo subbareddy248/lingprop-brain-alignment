@@ -40,21 +40,22 @@ datalad install https://datasets.datalad.org/labs/hasson/narratives/derivatives/
 ```bash
 cd afni-nosmooth
 bash download_data.sh
+python brain_data_21styear_fsaverage6.py
 ```
 
 **Extract stimuli representations using bert model with context length 20**
 - Narratives 21<sup>st</sup>-year Dataset
 ```bash
-python extract_features_words.py --input_file ./Narratives/21styear_align.csv --model bart-base --sequence_length 20 --output_file bert_conext20_21styear
+python extract_features_words.py --input_file ./Narratives/21styear_align.csv --model bert-base --sequence_length 20 --output_file bert_conext20_21styear
 ```
 
 **To build voxelwise encoding model for different stimuli representations**
 - five arguments are passed as input:
-- subject_number
+- #subject_number
 - #layers
 - stimulus vector
 - context length
--  output directory
+- output directory
   
 ```
 cd brain_predictions
